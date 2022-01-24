@@ -1,0 +1,8 @@
+ul#index {
+  padding-left: 0;
+  /* Remove bulletpoint from UL */
+  list-style-type: none;
+}
+#message {
+  height: 15em;
+}
